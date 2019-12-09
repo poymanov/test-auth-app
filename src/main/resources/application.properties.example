@@ -1,0 +1,8 @@
+spring.jpa.hibernate.ddl-auto=validate
+
+spring.datasource.platform=postgres
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true

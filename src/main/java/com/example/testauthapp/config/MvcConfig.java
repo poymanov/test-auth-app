@@ -1,4 +1,4 @@
-package com.example.testauthapp;
+package com.example.testauthapp.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
